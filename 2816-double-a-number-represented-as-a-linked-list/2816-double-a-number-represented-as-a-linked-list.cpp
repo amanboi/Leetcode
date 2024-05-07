@@ -22,6 +22,7 @@ public:
         cur = temp2;
         
         }
+        // reversed the given LL
       
         ListNode* newhead = prev;
         ListNode* temp = newhead;
